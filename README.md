@@ -1,1 +1,1 @@
-local.uakronhvz.com
+uakronhvz.com
